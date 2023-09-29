@@ -1,4 +1,4 @@
-# Visual transformer for mixed-type wafer defect pattern recognition
+# Mixed-type wafer defect pattern recognition using visual transformer
 
 ## Introduction
 
