@@ -19,6 +19,7 @@ MixedWM38 Dataset(WaferMap) consists of 38000 wafer maps, including 1 normal pat
 ## Results
 
 ### Visual transformer (ViT)
+![image](https://github.com/PanithanS/Wafers-Defect-Recognition-for-Semiconductor-Manufacturing/assets/83627892/d7c51a98-d975-40bd-9fdf-d4c46eac829a)
 
 ### Training
 
