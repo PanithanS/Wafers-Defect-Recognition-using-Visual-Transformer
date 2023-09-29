@@ -24,6 +24,13 @@ Wafer map data, representing the locations of wafer defects and their patterns
 ## Results
 ![image](https://github.com/PanithanS/Wafers-Defect-Recognition-for-Semiconductor-Manufacturing/assets/83627892/854feccc-df21-45ee-a962-1fb6e76bc849)
 
-## Acknowledgement
+## Acknowledgement and inspiration
+- We acknowledge the dataset provider for the Mixed-type Wafer Defect Datasets from the Institute of Intelligent Manufacturing, Donghua University
+- See the dataset GitHub: https://github.com/Junliangwangdhu/WaferMap
+- We acknowledge Dr. Uzma Batool from the University of Technology Malaysia for correcting the label error in the original dataset
+- This work inspired from https://keras.io/examples/vision/image_classification_with_vision_transformer/
 
 ## Reference
+1. J. Wang, C. Xu, Z. Yang, J. Zhang and X. Li, "Deformable Convolutional Networks for Efficient Mixed-type Wafer Defect Pattern Recognition," in IEEE Transactions on Semiconductor Manufacturing, DOI: 10.1109/TSM.2020.3020985.
+2. Zheng, Xiaoqing, et al. "Recent advances in surface defect inspection of industrial products using deep learning techniques." The International Journal of Advanced Manufacturing Technology 113 (2021): 35-58.
+3. Nag, Subhrajit, et al. "WaferSegClassNet-A light-weight network for classification and segmentation of semiconductor wafer defects." Computers in Industry 142 (2022): 103720.
