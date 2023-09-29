@@ -25,3 +25,7 @@ Wafer map data, representing the locations of wafer defects and their patterns
 
 ## Results
 ![image](https://github.com/PanithanS/Wafers-Defect-Recognition-for-Semiconductor-Manufacturing/assets/83627892/854feccc-df21-45ee-a962-1fb6e76bc849)
+
+## Acknowledgement
+
+## Reference
