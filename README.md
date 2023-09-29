@@ -12,5 +12,9 @@ Wafers defect pattern recognition (DPR) in semiconductor manufacturing in semico
 ## Deep learning solution and challenges
 Deep learning for computer vision techniques is often employed to address the challenges of DPR in semiconductor manufacturing. These techniques leverage data from wafer maps, including spatial information, to train models capable of accurately detecting and classifying defects. However, defects can exhibit various spatial characteristics, such as size, shape, and distribution, and sometimes the presence of multiple defect types on a single wafer is even more complicated for defect identification and classification. Therefore, this requires a fast and accurate DPR system to handle mixed types of defects present on wafers.
 
-![image](https://github.com/PanithanS/Wafers-Defect-Recognition-for-Semioconducter-Manufacturing/assets/83627892/47f70670-cee2-4be4-a280-cf98f66b45c6)
+## Dataset
 Defect inspections typically involve handling wafer map data, representing the locations of wafer defects and their patterns
+
+![image](https://github.com/PanithanS/Wafers-Defect-Recognition-for-Semioconducter-Manufacturing/assets/83627892/47f70670-cee2-4be4-a280-cf98f66b45c6)
+
+## Visual transformer
