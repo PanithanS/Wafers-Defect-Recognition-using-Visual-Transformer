@@ -15,7 +15,7 @@ Deep learning for computer vision techniques is often employed to address the ch
 ## Dataset
 Wafer map data, representing the locations of wafer defects and their patterns
 
-![image](https://github.com/PanithanS/Wafers-Defect-Recognition-for-Semiconductor-Manufacturing/assets/83627892/7cb8c17a-a6ce-4416-ae00-8b1f2dda49a0)
+![image](https://github.com/PanithanS/Wafers-Defect-Recognition-for-Semiconductor-Manufacturing/assets/83627892/cfaaa855-0cf4-442a-8c19-10322361ee6d)
 
 
 ## Visual transformer (ViT)
