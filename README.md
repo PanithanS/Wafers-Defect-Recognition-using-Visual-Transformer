@@ -17,10 +17,11 @@ Wafer map data, representing the locations of wafer defects and their patterns
 
 ![image](https://github.com/PanithanS/Wafers-Defect-Recognition-for-Semiconductor-Manufacturing/assets/83627892/cfaaa855-0cf4-442a-8c19-10322361ee6d)
 
-
 ## Visual transformer (ViT)
-
 
 ### ViT model training and validation accuracy
 
 ![image](https://github.com/PanithanS/Wafers-Defect-Recognition-for-Semiconductor-Manufacturing/assets/83627892/d30b5bbc-cb8a-4605-bdc0-ecafeda91c9f)
+
+## Results
+![image](https://github.com/PanithanS/Wafers-Defect-Recognition-for-Semiconductor-Manufacturing/assets/83627892/854feccc-df21-45ee-a962-1fb6e76bc849)
