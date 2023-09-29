@@ -33,3 +33,4 @@ Wafer map data, representing the locations of wafer defects and their patterns
 1. J. Wang, C. Xu, Z. Yang, J. Zhang and X. Li, "Deformable Convolutional Networks for Efficient Mixed-type Wafer Defect Pattern Recognition," in IEEE Transactions on Semiconductor Manufacturing, DOI: 10.1109/TSM.2020.3020985.
 2. Zheng, Xiaoqing, et al. "Recent advances in surface defect inspection of industrial products using deep learning techniques." The International Journal of Advanced Manufacturing Technology 113 (2021): 35-58.
 3. Nag, Subhrajit, et al. "WaferSegClassNet-A light-weight network for classification and segmentation of semiconductor wafer defects." Computers in Industry 142 (2022): 103720.
+4. Dosovitskiy, Alexey, et al. "An image is worth 16x16 words: Transformers for image recognition at scale." arXiv preprint arXiv:2010.11929 (2020).
