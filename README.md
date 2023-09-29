@@ -2,6 +2,7 @@
 
 Semiconductor manufacturing is a highly complex and precise process with numerous steps involved in creating integrated circuits on silicon wafers. Defects can occur at any stage of this process, from wafer fabrication to packaging. These defects can lead to yield loss and impact the performance of the final electronic devices. Manufacturers need to control the quality of semiconductor wafers to maintain high yields and reduce production costs.
 
+
 ![image](https://github.com/PanithanS/Wafers-Defect-Recognition-for-Semiconductor--Manufacturing/assets/83627892/3e059907-fb2b-4ce9-8cbd-440e5afccb10)
 
 ## Wafers defect pattern recognition
