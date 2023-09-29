@@ -21,4 +21,5 @@ Defect inspections typically involve handling wafer map data, representing the l
 
 
 - ViT model training
+
 ![image](https://github.com/PanithanS/Wafers-Defect-Recognition-for-Semiconductor-Manufacturing/assets/83627892/d30b5bbc-cb8a-4605-bdc0-ecafeda91c9f)
