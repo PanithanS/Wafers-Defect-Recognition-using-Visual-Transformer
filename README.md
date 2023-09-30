@@ -26,7 +26,7 @@ MixedWM38 Dataset(WaferMap) consists of 38000 wafer maps, including 1 normal pat
 
 ![image](https://github.com/PanithanS/Wafers-Defect-Recognition-for-Semiconductor-Manufacturing/assets/83627892/854feccc-df21-45ee-a962-1fb6e76bc849)
 
-## Acknowledgement and inspiration
+## Acknowledgements and inspirations
 - We acknowledge the dataset provider for the Mixed-type Wafer Defect Datasets from the Institute of Intelligent Manufacturing, Donghua University
 - See the dataset GitHub: https://github.com/Junliangwangdhu/WaferMap
 - This work inspired from https://keras.io/examples/vision/image_classification_with_vision_transformer/
