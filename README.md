@@ -16,13 +16,18 @@ MixedWM38 Dataset(WaferMap) consists of 38000 wafer maps, including 1 normal pat
 ## Results
 
 ### Visual transformer (ViT) model
+- The visual transformer divides the image into 4x4 patches and then applies a linear projection to these patches before encoding them into the dense layer. Next, the dense layer is combined with position embeddings and passed to the transformer block. These position-encoded features are further passed to a multilayer perceptron to generate an output prediction.
+
 ![image](https://github.com/PanithanS/Wafers-Defect-Recognition-for-Semiconductor-Manufacturing/assets/83627892/cd9f6527-e2dc-4411-89c1-8b5988cb321f)
 
 ### Training and validation
+- The training takes time depending on your computational power, however, the accuracy and loss may not be very different
+- Here, we get not bad accuracy of 98.98% and a low loss value
 
 ![image](https://github.com/PanithanS/Wafers-Defect-Recognition-for-Semiconductor-Manufacturing/assets/83627892/d30b5bbc-cb8a-4605-bdc0-ecafeda91c9f)
 
 ### Predictions
+- The prediction was acceptable
 
 ![image](https://github.com/PanithanS/Wafers-Defect-Recognition-for-Semiconductor-Manufacturing/assets/83627892/854feccc-df21-45ee-a962-1fb6e76bc849)
 
