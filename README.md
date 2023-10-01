@@ -22,12 +22,12 @@ MixedWM38 Dataset(WaferMap) consists of 38000 wafer maps, including 1 normal pat
 
 ### Training and validation
 - The training takes time depending on your computational power, however, the accuracy and loss may not be very different
-- Here, we get not bad accuracy of 98.98% and a low loss value
+- Here, we achieved an accuracy of 98.98% and a low loss value
 
 ![image](https://github.com/PanithanS/Wafers-Defect-Recognition-for-Semiconductor-Manufacturing/assets/83627892/d30b5bbc-cb8a-4605-bdc0-ecafeda91c9f)
 
 ### Predictions
-- The prediction was acceptable
+- The model performance looks acceptable.
 
 ![image](https://github.com/PanithanS/Wafers-Defect-Recognition-for-Semiconductor-Manufacturing/assets/83627892/854feccc-df21-45ee-a962-1fb6e76bc849)
 
